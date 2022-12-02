@@ -30,6 +30,9 @@ const TEMPLATE_CONFIG = [
       
       ---
       
+      {{note_en.DATA}} 
+      {{note_ch.DATA}}
+      
       {{moment_copyrighting.DATA}}
       
       {{poetry_title.DATA}} {{poetry_content.DATA}}
